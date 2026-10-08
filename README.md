@@ -10,3 +10,8 @@ De andere opdrachten
 
 Opdracht 4
 https://github.com/bobZonnveldt/Space48/tree/main
+
+
+opdracht 5 
+<img width="1206" height="948" alt="Enemys" src="https://github.com/user-attachments/assets/28ade126-0639-4ea8-be76-7273dfcf4e50" />
+
