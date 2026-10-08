@@ -8,14 +8,14 @@ public class Opdracht1 : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        Debug.Log("Naam: " + naam);
+        Debug.Log("Score: " + score);
+        Debug.Log("Is alive: " + isalive);
     }
 
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("Naam: " + naam);
-        Debug.Log("Score: " + score);
-        Debug.Log("Is alive: " + isalive);
+        
     }
 }
